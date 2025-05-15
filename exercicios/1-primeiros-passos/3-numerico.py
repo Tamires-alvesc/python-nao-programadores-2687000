@@ -8,6 +8,9 @@ print(type(idade_numerica))
 print(type(altura))
 
 # Realize uma operação entre dados do tipo string e inteiro
-
+print('Tamires '*2)
 
 # Realize uma operação entre dados do tipo inteiro e float
+a = 2
+b = 3.57
+print(a+b)
