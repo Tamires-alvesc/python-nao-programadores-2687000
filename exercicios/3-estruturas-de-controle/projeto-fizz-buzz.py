@@ -10,7 +10,7 @@ indice = 0
 
 for item in lista:
   if (item % 3 == 0) and (item % 5 == 0):
-    lista[indice] = 'FizzBuzz'
+    lista[indice] = 'FizzBuzz' 
   elif item % 3 == 0:
     lista[indice] = 'Fizz'
   elif item % 5 == 0:
